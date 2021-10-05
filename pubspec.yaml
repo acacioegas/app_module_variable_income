@@ -20,6 +20,11 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  mobile:
+    git:
+      url: https://github.com/acacioegas/mobile.git
+      ref: main
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
